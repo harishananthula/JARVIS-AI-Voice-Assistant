@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+
+# Databases
+*.db
+
+# Logs
+*.log
+
+# Audio
+*.wav
+*.mp3
+
+# Personal contacts
+contacts.csv
